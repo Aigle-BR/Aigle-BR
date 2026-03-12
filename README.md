@@ -1,4 +1,4 @@
-# Salut, moi c'est Mathieu 👋
+# Salut, moi c'est Gabriel 👋
 
 Développeur passionné de 13 ans basé à Versailles 🇫🇷  
 Je construis des projets web et mobile depuis plusieurs années, en solo et en équipe.
@@ -9,7 +9,7 @@ Je construis des projets web et mobile depuis plusieurs années, en solo et en �
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [site-prepa](https://site-prepa.vercel.app) | Site d'aide à la préparation scolaire | React, Node.js, Vercel |
+| [site-prepa](https://site-prepa.vercel.app) | Site de partage de fichiers pour un professeur d'anglais en prépa | React, Node.js, Vercel |
 | App Géolocalisation | Application mobile de géolocalisation | React, Capacitor |
 
 ---

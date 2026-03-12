@@ -10,7 +10,7 @@ Je construis des projets web et mobile depuis plusieurs années, en solo et en �
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [site-prepa](https://site-prepa.vercel.app) | Site de partage de fichiers pour un professeur d'anglais en prépa | React, Node.js, Vercel |
-| App Géolocalisation | Application mobile de géolocalisation | React, Capacitor |
+| privé - bientôt public | Application mobile de géolocalisation | React, Capacitor |
 
 ---
 
@@ -27,11 +27,11 @@ Je construis des projets web et mobile depuis plusieurs années, en solo et en �
 ## 🌱 En ce moment
 
 - 📚 Collégien en 4ème à Saint-Jean Hulst, Versailles
-- 🔭 En train d'apprendre **TypeScript**
+- 🔭 En train d'apprendre **TypeScript** et d'approfondir **React**
 - ⚡ Scout — j'aime les défis en équipe autant que le code
 
 ---
 
 ## 📫 Me contacter
 
-[![Vercel](https://img.shields.io/badge/-site--prepa.vercel.app-000?style=flat&logo=vercel)](https://site-prepa.vercel.app)
+email : aigle-br@outlook.fr
